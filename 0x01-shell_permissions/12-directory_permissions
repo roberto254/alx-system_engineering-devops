@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir rwx-r-x--x
+mkdir my_dir 755
